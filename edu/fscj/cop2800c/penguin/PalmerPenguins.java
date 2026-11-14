@@ -1,6 +1,6 @@
 // PalmerPenguins.java
-// D. Singletary
-// 3/14/25
+// Brandon Schamberg
+// 11/14/2026
 // Palmer Penguins application
 
 package edu.fscj.cop2800c.penguin;
